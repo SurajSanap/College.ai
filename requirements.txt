@@ -6,3 +6,4 @@ PyPDF2  # Reading pdf
 faiss-cpu  # For parallel processing (CPU used because small files, GPU for large)
 langchain_google_genai  # with the help of Langchain, you can access API
 pdf2image
+poppler-utils
